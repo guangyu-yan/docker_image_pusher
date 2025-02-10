@@ -1,1 +1,2 @@
 instories/birefnet:0.8.base64_compile
+nginx
