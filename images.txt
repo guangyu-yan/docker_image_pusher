@@ -1,2 +1,1 @@
-instories/birefnet
-
+nginx
