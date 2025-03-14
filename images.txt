@@ -1,3 +1,1 @@
-instories/birefnet:0.8.base64_compile
-nginx
-fmichaud/moviepy:2.1.2
+marcelrooom/blender:latest
