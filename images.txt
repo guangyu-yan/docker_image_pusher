@@ -1,1 +1,1 @@
-marcelrooom/blender:latest
+centos:8
