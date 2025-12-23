@@ -1,3 +1,1 @@
-node:16-buster
-percona/pmm-server:latest
-eritpchy/video-subtitle-remover:1.4.0-cuda12.8
+redis:7.2
